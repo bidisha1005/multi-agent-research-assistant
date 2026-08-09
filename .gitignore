@@ -1,0 +1,10 @@
+.env
+.venv/
+
+# Python generated files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# macOS
+.DS_Store
